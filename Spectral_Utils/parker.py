@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 19 09:55:37 2012
 
-@author: miorellif
-"""
+
 import numpy as np
 
 
